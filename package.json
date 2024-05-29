@@ -1,4 +1,6 @@
 {
+  "name": "modelfusion",
+  "version": "0.137.0",
   "private": true,
   "scripts": {
     "build": "turbo build",
