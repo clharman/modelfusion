@@ -9,7 +9,6 @@ package-lock.json
 examples/*/build/**
 packages/*/build/**
 packages/*/coverage/**
-packages/*/dist/**
 tools/*/build/**
 tools/*/coverage/**
 tools/*/dist/**
